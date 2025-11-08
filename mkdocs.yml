@@ -1,11 +1,11 @@
 # Site settings
 site_name: Vivek's Notes
 site_description: A personal wiki for Vivek Patel.
-site_url: https://nodesautomations.com/Notes/
+site_url: https://github.com/vivekkpatel/Notes
 
 # Repository Details for "Edit on GitHub" links
 repo_name: Notes
-repo_url: https://github.com/NodesAutomations/Notes
+repo_url: https://github.com/vivekkpatel/Notes
 edit_uri: edit/main/docs/
 
 # Navigation Tree
