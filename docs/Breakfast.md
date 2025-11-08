@@ -15,5 +15,6 @@
 - Idli
 - Idla
 - Appam
+- Uttapam
 - Dhokla
 - Thepla 
