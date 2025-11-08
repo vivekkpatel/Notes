@@ -17,8 +17,8 @@ nav:
 # Theme
 theme:
   name: material
-  logo: material/library
-  favicon: material/library
+  logo: assets/favicon.png
+  favicon: assets/favicon.png
   palette:
     - scheme: default
       primary: indigo
