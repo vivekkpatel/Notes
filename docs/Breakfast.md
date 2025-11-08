@@ -1,11 +1,19 @@
 # Breakfast
 
-| Day       | Food        |
-|-----------|-------------|
-| Monday    | poha        |
-| Tuesday   | Idli        |
-| Wednesday | Khaman      |
-| Thursday  | Rotlo       |
-| Friday    | Upma        |
-| Saturday  | Salad       |
-| Sunday    | Cheat food  |
+## Instant Food
+- Poha
+- Upma
+- Rasavala Khaman
+
+## Minimal Prep
+- Vagarelo Rotlo
+- Chana Salad
+- Tuvel Salad
+- Sabudana khichdi
+
+## Planned Food
+- Idli
+- Idla
+- Appam
+- Dhokla
+- Thepla 
