@@ -17,8 +17,8 @@ nav:
 # Theme
 theme:
   name: material
-  logo: fontawesome/solid/book-atlas.svg
-  favicon: fontawesome/solid/book-atlas.svg
+  logo: material-library
+  favicon: material-library
   palette:
     - scheme: default
       primary: indigo
