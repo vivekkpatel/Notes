@@ -7,6 +7,7 @@
 
 ## Minimal Prep
 - Vagarelo Rotlo
+- Sweet Corn Salad
 - Chana Salad
 - Tuvel Salad
 - Sabudana khichdi
