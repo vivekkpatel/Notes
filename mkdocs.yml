@@ -20,6 +20,7 @@ theme:
   name: material
   logo: assets/favicon.png
   favicon: assets/favicon.png
+  version: true
   palette:
     - scheme: default
       primary: indigo
