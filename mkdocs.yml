@@ -40,7 +40,14 @@ theme:
     - content.code.copy # Allows code blocks to have a copy button
     - navigation.path # Enables path navigation top of docs for smaller screens
     - navigation.tabs # Enables tabbed navigation
-    - navigation.indexes # Enables attachment of sub section index 
+    - navigation.indexes # Enables attachment of sub section index
+    - navigation.instant # Faster page loads on mobile
+    - navigation.instant.prefetch # Preload next pages
+    - navigation.tracking # Highlights current page
+    - search.suggest # Search suggestions on mobile
+    - search.highlight # Highlights search results
+    - toc.follow # TOC follows scroll
+    - header.autohide # Auto-hide header when scrolling 
   icon:
     repo: fontawesome/brands/git-alt 
     edit: material/pencil 
