@@ -14,8 +14,8 @@ nav:
     - index.md
     - Breakfast.md
     - Contacts.md
-  - Food:
-    - Food/Coffee.md
+  - Beverages:
+    - Beverages/Coffee.md
 
 # Theme
 theme:
