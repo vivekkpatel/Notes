@@ -14,10 +14,10 @@ nav:
     - index.md
     - Breakfast.md
     - Contacts.md
-  - Beverages:
+  - 🍵 Beverages:
     - Beverages/Coffee.md
     - Beverages/Tea.md
-  - Food:
+  - 🍕 Food:
     - Food/Popcorn.md
 
 # Theme
