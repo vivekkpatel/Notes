@@ -16,6 +16,8 @@ nav:
     - Contacts.md
   - Beverages:
     - Beverages/Coffee.md
+  - Food:
+    - Food/Popcorn.md
 
 # Theme
 theme:
