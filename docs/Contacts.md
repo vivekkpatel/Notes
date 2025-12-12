@@ -12,8 +12,9 @@
 
 ## Chair Repair
 - **Chamunda Chair Repairing**
-- **Ravi Vasfoda**: 95580 80390
-- **Ramesh Vasfoda**: 97251 88622
+  - Ravi Vasfoda: 95580 80390
+  - Ramesh Vasfoda: 97251 88622
+- **Sagar Chair Repairing**: 9605152347
 
 ## Electrician
 - **Chetan Parmar** (Original Room valo): 99258 97755
