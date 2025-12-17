@@ -14,11 +14,8 @@ nav:
     - index.md
     - Breakfast.md
     - Contacts.md
-  - 🍵 Beverages:
-    - Beverages/Coffee.md
-    - Beverages/Tea.md
-  - 🍕 Food:
-    - Food/Popcorn.md
+  - 🍵 Beverages: Beverages/
+  - 🍕 Food: Food/
 
 # Theme
 theme:
