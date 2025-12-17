@@ -1,3 +1,6 @@
+---
+title: Breakfast
+---
 # Breakfast
 
 ## Instant Food

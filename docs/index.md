@@ -1,7 +1,6 @@
 ---
 title: Home
 ---
-
 # Vivek's Personal Notes
 
 ## 📋 Quick Links

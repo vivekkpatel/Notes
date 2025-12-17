@@ -1,3 +1,6 @@
+---
+title: Contacts
+---
 # Contacts
 
 ## Plumber

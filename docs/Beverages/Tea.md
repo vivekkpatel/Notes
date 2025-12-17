@@ -2,7 +2,7 @@
 title: Tea
 ---
 
-# Tea Recipe
+# Tea
 
 ## Ingredients
 - 1 cup milk (110 gm)
