@@ -4,4 +4,7 @@ nav:
     - index.md
     - Breakfast.md
     - Contacts.md
-  - "*"
+  - Food:
+    - "*"
+  - Beverages:
+    - "*"
