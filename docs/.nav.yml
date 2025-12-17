@@ -5,6 +5,6 @@ nav:
     - Breakfast.md
     - Contacts.md
   - Beverages:
-    - "*"
+    - "Beverages/*"
   - Food:
-    - "*"
+    - "Food/*"
