@@ -1,4 +1,4 @@
-title: Home
+preserve_directory_names: true
 nav:
   - Home:
     - index.md
