@@ -1,3 +1,7 @@
+---
+title: Awesome Tea Making Instructions
+---
+
 # Tea Recipe
 
 ## Ingredients
