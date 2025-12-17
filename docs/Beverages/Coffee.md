@@ -1,3 +1,6 @@
+---
+title: Coffee Making Instructions
+---
 # Coffee Recipe
 
 ## Instant coffee
