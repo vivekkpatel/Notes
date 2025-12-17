@@ -1,5 +1,5 @@
 ---
-title: Awesome Tea Making Instructions
+title: Tea
 ---
 
 # Tea Recipe

@@ -1,7 +1,7 @@
 ---
-title: Coffee Making Instructions
+title: Coffee
 ---
-# Coffee Recipe
+# Coffee
 
 ## Instant coffee
 
