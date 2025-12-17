@@ -8,18 +8,6 @@ repo_name: Notes
 repo_url: https://github.com/vivekkpatel/Notes
 edit_uri: edit/main/docs/
 
-# Navigation Tree
-nav:
-  - Home:
-    - index.md
-    - Breakfast.md
-    - Contacts.md
-  - 🍵 Beverages:
-    - Beverages/Coffee.md
-    - Beverages/Tea.md
-  - 🍕 Food:
-    - Food/Popcorn.md
-
 # Theme
 theme:
   name: material
@@ -57,6 +45,10 @@ theme:
     repo: fontawesome/brands/git-alt 
     edit: material/pencil 
     view: material/eye
+
+plugins:
+  - search
+  - awesome-nav
 
 # Extensions
 markdown_extensions:
