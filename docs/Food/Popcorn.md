@@ -1,4 +1,4 @@
-# Popcorn
+# Popcorn Recipe
 
 ## Ingredients
 - Popcorn kernals 30gm

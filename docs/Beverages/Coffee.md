@@ -1,4 +1,4 @@
-# Coffee
+# Coffee Recipe
 
 ## Instant coffee
 
