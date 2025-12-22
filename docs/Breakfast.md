@@ -21,4 +21,5 @@ title: Breakfast
 - Appam
 - Uttapam
 - Dhokla
-- Thepla 
+- Thepla
+- phulka puri
