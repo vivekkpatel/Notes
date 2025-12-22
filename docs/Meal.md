@@ -14,19 +14,19 @@ title: Meal
 - Misal Pav
 - Pizza
 - Veg Sabji
-  - Bhindi
-  - Flower
+    - Bhindi
+    - Flower
 - Paneer Sabji
-  - Paneer Bhurji
-  - Palak Paneer
+    - Paneer Bhurji
+    - Palak Paneer
 - Eggs
-  - Bhurji
-  - Half fry
-  - Omelette
+    - Bhurji
+    - Half fry
+    - Omelette
 
 ## Planned Food
 - Undhiyu
 - South Indian
-  - Mysoor Dhosa
-  - Gotala Dhosa
-  - Idli sambhar
+    - Mysoor Dhosa
+    - Gotala Dhosa
+    - Idli sambhar
