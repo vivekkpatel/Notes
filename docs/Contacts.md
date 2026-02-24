@@ -46,6 +46,9 @@ title: Contacts
 ### Bike Repair
 - **Atul Bhai**: 97245 96219, 7405047758
 
+### Bag Repair
+- [**Manki Bags**](https://maps.app.goo.gl/8d5HtN2DX5H6RMFE6) : 09898070394
+
 ## Services
 
 ### Bank
