@@ -58,8 +58,7 @@ title: Contacts
 - **Ashutosh Kumar** : 91223 66635
 
 ### Internet & Services
-- **Jio Fiber** 
-  - Piyush: 78742 92783
+- **Piyush Jio Fiber** : 78742 92783
 
 ### Micellaneous
 - **Safo**: 90333 40059
