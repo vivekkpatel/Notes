@@ -3,18 +3,6 @@ title: Contacts
 ---
 # Contacts
 
-## Home Maintenance
-
-### Electrician
-- **Chetan Parmar** (Original Room valo): 99258 97755
-
-### Carpenter
-- **Pravin bhai**: 84609 23622
-
-### Plumber
-- **Amitbhai**: 9265665983
-- **Dinesh**: 9537371669
-
 ## Appliances
 
 ### RO
@@ -48,6 +36,18 @@ title: Contacts
 
 ### Bag Repair
 - [**Manki Bags**](https://maps.app.goo.gl/8d5HtN2DX5H6RMFE6) : 09898070394
+
+## Home Maintenance
+
+### Electrician
+- **Chetan Parmar** (Original Room valo): 99258 97755
+
+### Carpenter
+- **Pravin bhai**: 84609 23622
+
+### Plumber
+- **Amitbhai**: 9265665983
+- **Dinesh**: 9537371669
 
 ## Services
 
