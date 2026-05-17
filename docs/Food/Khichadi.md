@@ -46,6 +46,6 @@ Curry leaves | 10-12
 ## 🍽️ Serving
 - Once cooker is cooled down, open the lid and mix the khichadi gently with a spoon. Serve hot with yogurt, pickle, or papad.
 
-## References
+## 🔗 Links
 - [Kabita's Kitchen](https://youtu.be/Vtie5A1dH3E?si=Mqkdqo5_Eqy3wC84)
 - [Your Food Lab](https://www.youtube.com/watch?v=_JUcqjCKhHc)
