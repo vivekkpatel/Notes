@@ -3,6 +3,11 @@ title: Contacts
 ---
 # Contacts
 
+## Shops
+
+### Bakery
+- **Krishna Bakery Gajera Road**: 99040 66923
+
 ## Appliances
 
 ### RO
