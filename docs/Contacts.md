@@ -25,6 +25,15 @@ title: Contacts
 - **Laxminaran AC Service**: 8200739522
 - **ACMAN**: 9574695741
 
+### Washing Machine Repair
+- **Keshav Refrigeration**
+  - [Maps Link](https://maps.app.goo.gl/LHBXLmxUNTV2oKaM7)
+  - 7359615641
+- **Tej Sales & Service**
+  - [Maps Link](https://maps.app.goo.gl/BtX5v3x91Tu9qbNSA)
+  - 90810 04900
+- **Hari Krushna**: 98986 09228, 9913180482
+
 ### Phone Repair
 - **NP Gadget World**
   - Nayan Pandav: 81548 26835
