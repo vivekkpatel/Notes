@@ -65,6 +65,9 @@ title: Contacts
 
 ## Services
 
+### Post Man
+- Amita Postman Katargam - 95379 10036
+
 ### Bank
 - **Axis Branch Manager** - Chitra Rao: 70454 39921
 
