@@ -6,76 +6,104 @@ title: Contacts
 ## Shops
 
 ### Bakery
-- **Krishna Bakery Gajera Road**: 99040 66923
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Krishna Bakery Gajera Road | 99040 66923 | |
 
 ## Appliances
 
 ### RO
-- **Javed bhai**: 8866805806, 9909773645
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Javed bhai | 8866805806, 9909773645 | |
 
 ### Gas Repair
-- **Hasmukh bhai**: 97120 83779
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Hasmukh bhai | 97120 83779 | |
 
 ### Oven Repair
-- **Urja Care**
-  - Yogendra Gajjar: 94271 52339
-  - [Maps Link](https://maps.app.goo.gl/nYsBbaDshcZW8ZCQ8)
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Urja Care (Yogendra Gajjar) | 94271 52339 | [Map](https://maps.app.goo.gl/nYsBbaDshcZW8ZCQ8) |
 
 ### AC Repair
-- **Laxminaran AC Service**: 8200739522
-- **ACMAN**: 9574695741
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Laxminaran AC Service | 8200739522 | |
+| ACMAN | 9574695741 | |
+| Chandan Maurya THE VANTIGO | 95808 63676 | |
 
 ### Washing Machine Repair
-- **Keshav Refrigeration**
-  - [Maps Link](https://maps.app.goo.gl/LHBXLmxUNTV2oKaM7)
-  - 7359615641
-- **Tej Sales & Service**
-  - [Maps Link](https://maps.app.goo.gl/BtX5v3x91Tu9qbNSA)
-  - 90810 04900
-- **Hari Krushna**: 98986 09228, 9913180482
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Keshav Refrigeration | 7359615641 | [Map](https://maps.app.goo.gl/LHBXLmxUNTV2oKaM7) |
+| Tej Sales & Service | 90810 04900 | [Map](https://maps.app.goo.gl/BtX5v3x91Tu9qbNSA) |
+| Hari Krushna | 98986 09228, 9913180482 | |
 
 ### Phone Repair
-- **NP Gadget World**
-  - Nayan Pandav: 81548 26835
-  - [Maps Link](https://maps.app.goo.gl/dUtcZDd2SxZ92CZz8)
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| NP Gadget World (Nayan Pandav) | 81548 26835 | [Map](https://maps.app.goo.gl/dUtcZDd2SxZ92CZz8) |
 
 ### Chair Repair
-- **Chamunda Chair Repairing**
-  - Ravi Vasfoda: 95580 80390
-  - Ramesh Vasfoda: 97251 88622
-- **Sagar Chair Repairing**: 9605152347
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Chamunda Chair Repairing (Ravi Vasfoda) | 95580 80390 | |
+| Chamunda Chair Repairing (Ramesh Vasfoda) | 97251 88622 | |
+| Sagar Chair Repairing | 9605152347 | |
 
 ### Bike Repair
-- **Atul Bhai**: 97245 96219, 7405047758
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Atul Bhai | 97245 96219, 7405047758 | |
 
 ### Bag Repair
-- [**Manki Bags**](https://maps.app.goo.gl/8d5HtN2DX5H6RMFE6) : 09898070394
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Manki Bags | 09898070394 | [Map](https://maps.app.goo.gl/8d5HtN2DX5H6RMFE6) |
 
 ## Home Maintenance
 
 ### Electrician
-- **Chetan Parmar** (Original Room valo): 99258 97755
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Chetan Parmar (Original Room valo) | 99258 97755 | |
 
 ### Carpenter
-- **Pravin bhai**: 84609 23622
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Pravin bhai | 84609 23622 | |
 
 ### Plumber
-- **Amitbhai**: 9265665983
-- **Dinesh**: 9537371669
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Amitbhai | 9265665983 | |
+| Dinesh | 9537371669 | |
 
 ## Services
 
 ### Post Man
-- Amita Postman Katargam - 95379 10036
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Amita Postman Katargam | 95379 10036 | |
 
 ### Bank
-- **Axis Branch Manager** - Chitra Rao: 70454 39921
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Axis Branch Manager (Chitra Rao) | 70454 39921 | |
 
 ### Surat Forex
-- **Ashutosh Kumar** : 91223 66635
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Ashutosh Kumar | 91223 66635 | |
 
 ### Internet & Services
-- **Piyush Jio Fiber** : 78742 92783
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Piyush Jio Fiber | 78742 92783 | |
 
 ### Micellaneous
-- **Safo**: 90333 40059
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Safo | 90333 40059 | |
