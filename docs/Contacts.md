@@ -69,6 +69,7 @@ title: Contacts
 | Name | PhoneNumber | Address |
 | --- | --- | --- |
 | Chetan Parmar (Original Room valo) | 99258 97755 | |
+| Viral Mistry | 96873 69983 | [Map](https://maps.app.goo.gl/m26EnMJYSMijcqX97) |
 
 ### Carpenter
 | Name | PhoneNumber | Address |
