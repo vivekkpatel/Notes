@@ -2,8 +2,10 @@ preserve_directory_names: true
 nav:
   - Home:
     - index.md
-    - Breakfast.md
+    - AirFryer.md
     - Contacts.md
+    - Calendar.md
+    - Breakfast.md
     - Hospitals.md
     - Meal.md
     - Clothing Sizes.md
