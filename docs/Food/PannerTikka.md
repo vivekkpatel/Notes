@@ -17,7 +17,7 @@ title: Paneer Tikka
 - Use skewers to thread the paneer and vegetables alternately. You can also use toothpicks if you don't have skewers.
 - Sparay some oil on the skewers to prevent sticking and to enhance flavor.
 - Also spray some oil on the air fryer basket to prevent sticking.
-- Preheat air fryer to 180°C for 5 minutes.
+- Preheat air fryer to 180°C for 3-5 minutes.
 - Place the skewers in the air fryer 
 - Cook at 180°C for 10-12 minute, you can spray more oil at 6 minutes if you want to make it more crispy.
 - Serve hot with green chutney
