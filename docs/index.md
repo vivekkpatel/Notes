@@ -4,6 +4,6 @@ title: Home
 # Vivek's Personal Notes
 
 ## 📋 Quick Links
-
-- [🍴 Breakfast](Breakfast.md) 
+- [📖 Air Fryer](AirFryer.md)
 - [📞 Contacts](Contacts.md)
+- [📅 Calender](Calender.md)
