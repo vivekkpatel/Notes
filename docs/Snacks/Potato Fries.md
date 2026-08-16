@@ -12,4 +12,4 @@ title: Potato Fries
 - Oragano (optional)
 
 ## Instructions
-- 
+- Pending
