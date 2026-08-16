@@ -8,6 +8,7 @@
 ## Snacks
 | Item | Temperature | Time | Description |
 |------|-------------|------|-------------|
+|Garlic Bread| 180°C | 7-8 min | Spray oil on top to avoid drying out |
 |Fries| 180°C | 15-20 min | Shake halfway through |
 
 ## Bread
@@ -15,6 +16,7 @@
 | Item | Temperature | Time | Description |
 |------|-------------|------|-------------|
 |Garlic Bread| 180°C | 7-8 min | Spray oil on top to avoid drying out |
+|Pizza| 180°C | 8 min | Spray oil on top to avoid drying out |
 |Pizza Sandwich| 180°C | 8 min | Spray oil on top to avoid drying out |
 
 ## Panner
