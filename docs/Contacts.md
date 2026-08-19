@@ -57,6 +57,7 @@ title: Contacts
 | Name | PhoneNumber | Address |
 | --- | --- | --- |
 | Atul Bhai | 97245 96219, 7405047758 | |
+| Kakadia EV Hub | 95123 61880 | [Map](https://maps.app.goo.gl/VUTTsJsEJAbyTUHEA) |
 
 ### Bag Repair
 | Name | PhoneNumber | Address |
