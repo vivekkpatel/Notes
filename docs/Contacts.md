@@ -3,13 +3,6 @@ title: Contacts
 ---
 # Contacts
 
-## Shops
-
-### Bakery
-| Name | PhoneNumber | Address |
-| --- | --- | --- |
-| Krishna Bakery Gajera Road | 99040 66923 | |
-
 ## Appliances
 
 ### RO
@@ -63,6 +56,12 @@ title: Contacts
 | Name | PhoneNumber | Address |
 | --- | --- | --- |
 | Manki Bags | 09898070394 | [Map](https://maps.app.goo.gl/8d5HtN2DX5H6RMFE6) |
+
+### Computer
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Snefy | 63547 73150, 99799 84455  | Signpour Char rasta|
+| Shyam computer | 89054 04699 | Nanpura |
 
 ## Home Maintenance
 
