@@ -104,7 +104,14 @@ title: Contacts
 | --- | --- | --- |
 | Piyush Jio Fiber | 78742 92783 | |
 
+### Furniture Shop
+| Name | PhoneNumber | Address |
+| --- | --- | --- |
+| Sajavat furniture| 9825675366 | beside Shree Tirupati Furniture in Bhagal ghanchi seri |
+
 ### Micellaneous
 | Name | PhoneNumber | Address |
 | --- | --- | --- |
 | Safo | 90333 40059 | |
+
+
