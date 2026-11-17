@@ -1,7 +1,7 @@
 # Site settings
 site_name: Vivek's Notes
 site_description: A personal wiki for Vivek Patel.
-site_url: https://github.com/vivekkpatel/Notes
+site_url: https://vivekkpatel.github.io/Notes/
 
 # Repository Details for "Edit on GitHub" links
 repo_name: Notes
@@ -11,6 +11,7 @@ edit_uri: edit/main/docs/
 # Theme
 theme:
   name: material
+  variant: modern
   logo: assets/favicon.png
   favicon: assets/favicon.png
   palette:
