@@ -1,6 +1,6 @@
-```
+---
 title: Pizza
-```
+---
 
 # Pizza
 

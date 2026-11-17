@@ -1,6 +1,6 @@
-```
+---
 title: Paneer Tikka
-```
+---
 
 # Paneer Tikka
 
