@@ -23,5 +23,5 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install 'zensical>=0.0.58' ghp-import
-      - run: zensical build --clean
+      - run: zensical build --clean --strict
       - run: ghp-import -n -p site

@@ -1,0 +1,58 @@
+[project]
+site_name = "Vivek's Notes"
+site_description = "A personal wiki for Vivek Patel."
+site_url = "https://vivekkpatel.github.io/Notes/"
+repo_name = "Notes"
+repo_url = "https://github.com/vivekkpatel/Notes"
+edit_uri = "edit/main/docs/"
+copyright = "Copyright &copy; 2025 Nodes Automations"
+
+[project.extra]
+generator = false
+
+[project.theme]
+variant = "modern"
+logo = "images/favicon.png"
+favicon = "images/favicon.png"
+features = [
+  "content.action.edit",
+  "content.action.view",
+  "content.code.copy",
+  "navigation.path",
+  "navigation.tabs",
+  "navigation.indexes",
+  "navigation.instant",
+  "navigation.instant.prefetch",
+  "navigation.tracking",
+  "search.suggest",
+  "search.highlight",
+  "toc.follow",
+  "header.autohide",
+]
+palette = [
+  { scheme = "default", primary = "indigo", accent = "indigo", toggle = { icon = "material/brightness-7", name = "Switch to dark mode" } },
+  { scheme = "slate", primary = "black", accent = "indigo", toggle = { icon = "material/brightness-4", name = "Switch to light mode" } },
+]
+
+[project.theme.icon]
+repo = "fontawesome/brands/git-alt"
+edit = "material/pencil"
+view = "material/eye"
+
+[project.plugins.search]
+
+[project.plugins.awesome-nav]
+
+[project.markdown_extensions]
+admonition = {}
+pymdownx.highlight.anchor_linenums = true
+pymdownx.highlight.line_spans = "__span"
+pymdownx.highlight.pygments_lang_class = true
+pymdownx.inlinehilite = {}
+pymdownx.snippets = {}
+pymdownx.superfences.custom_fences = [
+  { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" },
+]
+pymdownx.arithmatex.generic = true
+def_list = {}
+pymdownx.tasklist.custom_checkbox = true
